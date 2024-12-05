@@ -1,3 +1,21 @@
+# Project Overview
+
+React + TypeScript + Vite + Tailwind CSS
+
+# Prerequisites
+
+VSCode 
+
+NodeJS (for NPM) - [https://nodejs.org/en/learn/getting-started/how-to-install-nodejs]
+
+Installing Packages
+
+Vite - [https://vite.dev/guide/]
+npm create vite@latest projectname --template react-ts
+
+Tailwind CSS - [https://tailwindcss.com/docs/guides/vite]
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
