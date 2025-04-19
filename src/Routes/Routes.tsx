@@ -12,4 +12,6 @@ export const router = createBrowserRouter([
       { path: "about", element: <About /> }
     ]
   }
-]);
+], {
+  basename: '/ACMReactWorkshop' // Github Pages
+});
